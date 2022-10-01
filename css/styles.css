@@ -56,8 +56,6 @@ body {
 /* -------------HEADER------------- */
 .header {
   border-bottom: 1px solid #ececec;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .header-logo {
@@ -103,7 +101,7 @@ body {
 .header-link:hover,
 .current {
   color: var(--accent-color);
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  /* text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
 }
 
 .header-contacts-link {
